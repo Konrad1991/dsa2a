@@ -1,7 +1,6 @@
 
 #install.packages("dsa2a", type = "source", repos = NULL)
 
-library(dsa2a)
 library(deSolve)
 library(scatterplot3d)
 
